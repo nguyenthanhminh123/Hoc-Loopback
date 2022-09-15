@@ -19,7 +19,7 @@ let c: Command<string, number> = {
     id: '123thanhminh',
     run: function() {
         return 3;
-    }
+    },
 };
 
 console.log(c.id);

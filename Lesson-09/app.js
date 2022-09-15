@@ -5,7 +5,7 @@ var c = {
     id: '123thanhminh',
     run: function () {
         return 3;
-    }
+    },
 };
 console.log(c.id);
 console.log(c.run());

@@ -1,0 +1,11 @@
+{
+  "ids": {
+    "Product": 3
+  },
+  "models": {
+    "Product": {
+      "1": "{\"title\":\"Learn Node.js\",\"qty\":1,\"price\":1000,\"id\":1}",
+      "2": "{\"title\":\"Learn Node.js\",\"qty\":1,\"price\":1000,\"id\":2}"
+    }
+  }
+}
